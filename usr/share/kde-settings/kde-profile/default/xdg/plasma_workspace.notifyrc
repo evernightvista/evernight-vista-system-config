@@ -1,0 +1,9 @@
+[Event/exitkde]
+Action=Sound
+
+[Event/startkde]
+Action=Sound
+
+[Event/authenticate]
+Action=Sound
+Sound=dialog-warning-auth

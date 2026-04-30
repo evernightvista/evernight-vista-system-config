@@ -1,0 +1,3 @@
+[Event/imminentDeviceFailure]
+Action=Popup|Sound
+Sound=battery-low

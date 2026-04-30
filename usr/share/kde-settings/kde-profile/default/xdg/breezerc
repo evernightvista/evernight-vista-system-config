@@ -1,0 +1,10 @@
+[Windeco]
+BackgroundGradientIntensity=15
+BackgroundOpacity=20
+ButtonSize=ButtonLarge
+DrawBackgroundGradient=true
+TitleAlignment=AlignLeft
+TitleBarFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Style]
+MenuOpacity=80

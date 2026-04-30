@@ -1,0 +1,4 @@
+[Notifications]
+LowPriorityHistory=true
+PopupPosition=CloseToWidget
+PopupTimeout=10000

@@ -1,0 +1,7 @@
+/* Allow users in wheel group to Install Font without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.kde.fontinst.manage" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});

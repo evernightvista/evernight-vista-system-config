@@ -1,0 +1,31 @@
+/* Allow users in wheel group to Create User without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.freedesktop.accounts.change-own-user-data" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
+
+/* Allow users in wheel group to Create User without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.freedesktop.accounts.change-own-password" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
+
+/* Allow users in wheel group to Create User without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.freedesktop.accounts.user-administration" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
+
+/* Allow users in wheel group to Create User without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.freedesktop.accounts.set-login-option" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});

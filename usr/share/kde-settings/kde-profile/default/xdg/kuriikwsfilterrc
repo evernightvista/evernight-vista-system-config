@@ -1,0 +1,6 @@
+[General]
+DefaultWebShortcut=bing
+EnableWebShortcuts=true
+KeywordDelimiter=:
+PreferredWebShortcuts=bing,google,baidu,yahoo,youtube,wikipedia
+UsePreferredWebShortcutsOnly=false

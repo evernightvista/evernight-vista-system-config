@@ -1,0 +1,14 @@
+/* Allow users in wheel group to Set Battery Threshold without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.kde.powerdevil.chargethresholdhelper.setconservationmode" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
+
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.kde.powerdevil.chargethresholdhelper.setthreshold" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});

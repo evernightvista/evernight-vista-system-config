@@ -1,0 +1,50 @@
+
+[Development]
+AutoCheckAccelerators=false
+
+[General]
+desktopFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=Maple Mono NF,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=MiSans,8,-1,5,400,0,0,0,0,0,0,0,0,c0,0,1
+toolBarFont=MiSans,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,11
+widgetStyle=Breeze
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+accentColorFromWallpaper=false
+ColorScheme=EvernightLight
+Name=Evernight Vista Light
+ShowDesktopPreviewBanner=false
+
+[WM]
+activeFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=Evernight
+
+[KDE]
+ColorScheme=EvernightLight
+AutomaticLookAndFeel=false
+LookAndFeelPackage=EvernightVista
+DefaultLightLookAndFeel=EvernightVista
+DefaultDarkLookAndFeel=EvernightVista-Dark
+
+[Sounds]
+Theme=Fantasy
+
+[KSpell]
+KSpell_Client=4
+KSpell_Encoding=11
+
+[K3Spell]
+K3Spell_Client=4
+K3Spell_Encoding=11
+
+[Toolbar style]
+Highlighting=true
+IconText=IconOnly
+TransparentMoving=true
+
+[KDE Action Restrictions][$i]

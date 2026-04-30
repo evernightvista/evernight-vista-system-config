@@ -1,0 +1,19 @@
+[Development]
+AutoCheckAccelerators=false
+
+[General]
+desktopFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+fixed=Maple Mono NF,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=MiSans,8,-1,5,400,0,0,0,0,0,0,0,0,c0,0,1
+toolBarFont=MiSans,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,11
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+
+[WM]
+activeFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=Evernight

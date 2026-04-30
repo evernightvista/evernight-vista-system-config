@@ -1,0 +1,10 @@
+[Daemon]
+LockGrace=0
+
+[Greeter]
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.image][General]
+DynamicMode=1
+Image=file:///usr/share/wallpapers/Vista/#day-night
+PreviewImage=file:///usr/share/wallpapers/Vista/#day-night

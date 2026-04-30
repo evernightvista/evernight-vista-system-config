@@ -1,0 +1,3 @@
+[Event/freespacenotif]
+Action=Popup|Sound
+Sound=battery-caution
