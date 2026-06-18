@@ -9,21 +9,20 @@ ShowOutlineOnPressActive=false
 ShowOutlineOnPressInactive=false
 
 [ButtonColors]
+ButtonBackgroundColorsActive=AccentTrafficLights
+ButtonBackgroundColorsInactive=AccentTrafficLights
 ButtonBackgroundOpacityActive=100
 ButtonBackgroundOpacityInactive=100
-ButtonIconColorsActive=TitleBarText
-ButtonIconOpacityInactive=100
-ButtonOverrideColorsActiveClose={"BackgroundHover":["NegativeFullySaturated"],"BackgroundPress":["NegativeSaturated",80]}
-ButtonOverrideColorsInactiveClose={"BackgroundHover":["NegativeFullySaturated"],"BackgroundPress":["NegativeSaturated",80]}
-CloseButtonIconColorActive=AsSelected
-CloseButtonIconColorInactive=AsSelected
-LockButtonColorsActiveInactive=true
-OnPoorIconContrastActive=Nothing
-OnPoorIconContrastInactive=Nothing
-UseHoverAccentActive=false
+ButtonOverrideColorsActiveClose=
+ButtonOverrideColorsInactiveClose=
+CloseButtonIconColorActive=WhiteWhenHoverPress
+CloseButtonIconColorInactive=WhiteWhenHoverPress
+OnPoorIconContrastActive=TitleBarBackground
+OnPoorIconContrastInactive=TitleBarBackground
 
 [Global]
 LookAndFeelSet=EvernightVista
+RefreshedConfig=6.5.3
 
 [Style]
 MenuOpacity=90
@@ -35,24 +34,31 @@ KlassyIconThemeInherits=Evernight
 [TitleBarOpacity]
 ActiveTitleBarOpacity=30
 ApplyOpacityToHeader=false
-InactiveTitleBarOpacity=50
+InactiveTitleBarOpacity=30
 OpaqueMaximizedTitleBars=false
 
 [TitleBarSpacing]
-LockTitleBarLeftRightMargins=false
+LockTitleBarLeftRightMargins=true
 TitleAlignment=AlignLeft
+TitleSidePadding=7
 
 [Windeco]
-BoldButtonIcons=BoldIconsHiDpiOnly
-ButtonIconStyle=StyleMetro
-ButtonShape=ShapeFullHeightRectangle
-ColorizeThinWindowOutlineWithButton=false
-DrawBackgroundGradient=true
-IconSize=IconLarge
-SystemIconSize=SystemIcon20
-WindowCornerRadius=10
+BoldButtonIcons=BoldIconsActiveHiDpi
+BoldTitle=false
+ButtonIconStyle=StyleFluent
+ButtonShape=ShapeIntegratedRoundedRectangle
+ColorizeWindowOutlineWithButton=false
+DrawBackgroundGradient=false
+MatchTitleBarToApplicationColor=true
+SystemIconSize=SystemIcon16
+UseTitleBarColorForAllBorders=false
+WindowCornerRadius=4
 
 [WindowOutlineStyle]
+LockThinWindowOutlineStyleActiveInactive=true
 ThinWindowOutlineStyleActive=WindowOutlineNone
 ThinWindowOutlineStyleInactive=WindowOutlineNone
-ThinWindowOutlineThickness=1
+ThinWindowOutlineThickness=1.75
+WindowOutlineStyleActive=WindowOutlineNone
+WindowOutlineStyleInactive=WindowOutlineNone
+WindowOutlineThickness=0.5

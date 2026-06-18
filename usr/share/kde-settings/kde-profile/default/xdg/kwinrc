@@ -57,6 +57,8 @@ BorderSize=None
 BorderSizeAuto=false
 ButtonsOnLeft=MS
 ButtonsOnRight=HIAX
+library=org.kde.klassy
+theme=Klassy
 CloseOnDoubleClickOnMenu=true
 
 [Xwayland]
