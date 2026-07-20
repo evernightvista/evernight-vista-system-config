@@ -1,0 +1,14 @@
+[Common]
+CornerRadius=15
+SunkenEffect=true
+
+[Style]
+AnimationsDuration=120
+DolphinSidebarOpacity=45
+DolphinViewOpacity=45
+MenuBarOpacity=45
+MenuOpacity=45
+NoOutline=true
+TabUseBrighterCloseIcon=true
+TabUseHighlightColor=true
+ToolBarOpacity=45
