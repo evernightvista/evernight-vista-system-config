@@ -1,0 +1,23 @@
+/* Allow users in wheel group to install linglong packages without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.deepin.linglong.PackageManager1.install" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
+
+/* Allow users in wheel group to update linyaps packages without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.deepin.linglong.PackageManager1.update" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
+
+/* Allow users in wheel group to uninstall linyaps packages without authentication */
+polkit.addRule(function(action, subject) {
+    if (action.id == "org.deepin.linglong.PackageManager1.uninstall" &&
+        subject.isInGroup("wheel")) {
+        return polkit.Result.YES;
+    }
+});
