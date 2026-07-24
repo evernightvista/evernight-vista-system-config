@@ -2,6 +2,8 @@
 AutoCheckAccelerators=false
 
 [General]
+AccentColor=58,235,236
+ColorScheme=EvernightLight
 desktopFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 fixed=Maple Mono NF,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 font=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
@@ -14,6 +16,9 @@ XftSubPixel=rgb
 
 [WM]
 activeFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[KDE]
+widgetStyle=Darkly
 
 [Icons]
 Theme=Evernight
