@@ -45,9 +45,9 @@ LayoutName=flipswitch
 FadeToBlack=true
 
 [Effect-blur]
-BlurStrength=4
-NoiseStrength=0
-Saturation=125
+BlurStrength=7
+NoiseStrength=7
+Saturation=100
 
 [Effect-shakecursor]
 Magnification=7

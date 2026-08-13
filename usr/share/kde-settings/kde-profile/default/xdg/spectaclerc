@@ -1,0 +1,12 @@
+[General]
+ocrLanguages=chi_sim,chi_tra,eng,jpn
+rememberSelectionRect=Always
+useReleaseToCapture=true
+
+[ImageSave]
+imageCompressionQuality=100
+imageFilenameTemplate=ScreenShot_<title>_<yyyy><MM><dd>_<HH><mm><ss>
+
+[VideoSave]
+preferredVideoFormat=2
+videoFilenameTemplate=RecordShot_<title>_<yyyy><MM><dd>_<HH><mm><ss>
