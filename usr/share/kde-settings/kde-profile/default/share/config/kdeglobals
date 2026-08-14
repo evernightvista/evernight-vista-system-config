@@ -27,9 +27,9 @@ Theme=Evernight
 [KDE]
 ColorScheme=EvernightLight
 AutomaticLookAndFeel=false
-LookAndFeelPackage=EvernightVista
-DefaultLightLookAndFeel=EvernightVista
-DefaultDarkLookAndFeel=EvernightVista-Dark
+LookAndFeelPackage=evernight-vista
+DefaultLightLookAndFeel=evernight-vista
+DefaultDarkLookAndFeel=evernight-vista-dark
 
 [Sounds]
 Theme=Fantasy
