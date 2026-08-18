@@ -19,6 +19,7 @@ activeFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [KDE]
 widgetStyle=Darkly
+DndBehavior=MoveIfSameDevice
 
 [Icons]
 Theme=Evernight

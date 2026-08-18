@@ -27,6 +27,7 @@ Theme=Evernight
 [KDE]
 ColorScheme=EvernightLight
 AutomaticLookAndFeel=false
+DndBehavior=MoveIfSameDevice
 LookAndFeelPackage=evernight-vista
 DefaultLightLookAndFeel=evernight-vista
 DefaultDarkLookAndFeel=evernight-vista-dark
