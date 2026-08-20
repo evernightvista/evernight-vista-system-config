@@ -46,7 +46,7 @@ FadeToBlack=true
 
 [Effect-blur]
 BlurStrength=7
-NoiseStrength=7
+NoiseStrength=14
 Saturation=100
 
 [Effect-shakecursor]
