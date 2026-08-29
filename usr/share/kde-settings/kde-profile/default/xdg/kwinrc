@@ -8,7 +8,8 @@ trackmouseEnabled=true
 glideEnabled=true
 scaleEnabled=false
 squashEnabled=true
-blurEnabled=true
+better_blur_dxEnabled=true
+blurEnabled=false
 
 [Round-Corners]
 ActiveOutlineUseCustom=false
@@ -43,6 +44,19 @@ LayoutName=flipswitch
 
 [Effect-login]
 FadeToBlack=true
+
+[Effect-better-blur-dx]
+BlurStrength=7
+Brightness=105
+Contrast=119
+NoiseStrength=1
+RefractionCornerRadius=148
+RefractionEdgeSize=9
+RefractionMode=1
+RefractionNormalPow=9
+RefractionRGBFringing=9
+RefractionStrength=20
+Saturation=125
 
 [Effect-blur]
 BlurStrength=7
