@@ -21,8 +21,7 @@ OnPoorIconContrastActive=TitleBarBackground
 OnPoorIconContrastInactive=TitleBarBackground
 
 [Global]
-LookAndFeelSet=EvernightVista
-RefreshedConfig=6.5.3
+LookAndFeelSet=evernight-vista
 
 [Style]
 MenuOpacity=90
@@ -52,7 +51,7 @@ DrawBackgroundGradient=false
 MatchTitleBarToApplicationColor=true
 SystemIconSize=SystemIcon16
 UseTitleBarColorForAllBorders=false
-WindowCornerRadius=4
+WindowCornerRadius=15
 
 [WindowOutlineStyle]
 LockThinWindowOutlineStyleActiveInactive=true
