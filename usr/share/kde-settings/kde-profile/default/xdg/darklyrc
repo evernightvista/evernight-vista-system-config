@@ -4,12 +4,12 @@ SunkenEffect=true
 
 [Style]
 AnimationsDuration=120
-DolphinSidebarOpacity=60
-DolphinViewOpacity=60
-MenuBarOpacity=60
-MenuOpacity=60
+DolphinSidebarOpacity=100
+DolphinViewOpacity=100
+MenuBarOpacity=30
+MenuOpacity=100
 NoOutline=true
-TabBarOpacity=60
+TabBarOpacity=100
 TabUseBrighterCloseIcon=true
 TabUseHighlightColor=true
-ToolBarOpacity=60
+ToolBarOpacity=30
