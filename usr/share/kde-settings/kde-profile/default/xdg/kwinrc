@@ -29,7 +29,6 @@ dimscreenEnabled=false
 dimscreenaeroEnabled=true
 trackmouseEnabled=true
 glideEnabled=false
-libkwin_effect_smodsnapEnabled=true
 smodglowEnabled=true
 smodpeekeffectEnabled=true
 smodpeekscriptEnabled=true
