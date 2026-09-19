@@ -31,9 +31,9 @@ KlassyDarkIconThemeInherits=Evernight
 KlassyIconThemeInherits=Evernight
 
 [TitleBarOpacity]
-ActiveTitleBarOpacity=30
+TitleBarOpacityActive=30
 ApplyOpacityToHeader=false
-InactiveTitleBarOpacity=30
+TitleBarOpacityInactive=30
 OpaqueMaximizedTitleBars=false
 
 [TitleBarSpacing]
