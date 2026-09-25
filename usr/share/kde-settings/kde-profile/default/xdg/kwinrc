@@ -63,9 +63,13 @@ OutDistance=50
 OutRotationAngle=10
 
 [TabBox]
+DelayTime=0
+ShowDesktopMode=1
 LayoutName=flipswitch
 
 [TabBoxAlternative]
+DelayTime=0
+ShowDesktopMode=1
 LayoutName=flipswitch
 
 [Effect-shakecursor]
