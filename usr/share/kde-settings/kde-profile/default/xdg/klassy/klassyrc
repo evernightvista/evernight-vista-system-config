@@ -27,8 +27,8 @@ LookAndFeelSet=evernight-vista
 MenuOpacity=90
 
 [SystemIconGeneration]
-KlassyDarkIconThemeInherits=Evernight
-KlassyIconThemeInherits=Evernight
+KlassyDarkIconThemeInherits=miryu-dark
+KlassyIconThemeInherits=miryu
 
 [TitleBarOpacity]
 TitleBarOpacityActive=30

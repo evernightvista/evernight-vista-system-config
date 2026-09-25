@@ -22,7 +22,7 @@ ShowDesktopPreviewBanner=false
 activeFont=MiSans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [Icons]
-Theme=Evernight
+Theme=miryu
 
 [KDE]
 ColorScheme=EvernightLight
