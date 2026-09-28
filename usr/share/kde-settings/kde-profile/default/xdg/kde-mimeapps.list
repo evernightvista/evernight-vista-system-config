@@ -3,7 +3,7 @@
 
 [Default Applications]
 # Packages
-application/x-rpm=org.kde.discover.desktop
+application/x-rpm=org.miryugaming.PackageManager.desktop
 application/vnd.debian.binary-package=org.kde.ark.desktop
 
 # Browser
