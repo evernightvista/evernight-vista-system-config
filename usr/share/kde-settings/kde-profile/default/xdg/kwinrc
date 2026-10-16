@@ -3,9 +3,9 @@ InputMethod[$e]=/usr/share/applications/org.fcitx.Fcitx5.desktop
 VirtualKeyboardEnabled=true
 
 [Effect-aeroglassblur]
-AeroBrightness=93
-AeroHue=180
-AeroSaturation=75
+AeroBrightness=89
+AeroHue=213
+AeroSaturation=43
 BlurFirefox=
 BlurStrength=4
 FollowPlasmaAccentColor=true
@@ -13,6 +13,7 @@ OpaqueKrunner=false
 OpaqueOSD=false
 PaintAsTranslucent=true
 ReflectionIntensity=100
+EnableCornerGlow=false
 
 [Effect-blur]
 BlurStrength=1
