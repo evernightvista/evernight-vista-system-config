@@ -1,2 +1,7 @@
 [Executable scripts]
 behaviourOnLaunch=open
+
+[Confirmations]
+ConfirmDelete=true
+ConfirmEmptyTrash=true
+ConfirmTrash=true
