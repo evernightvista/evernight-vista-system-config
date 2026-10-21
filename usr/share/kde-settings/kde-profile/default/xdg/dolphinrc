@@ -3,4 +3,4 @@ UsePermissionsFormat=CombinedFormat
 
 [General]
 DoubleClickViewAction=none
-ShowToolTips=true
+ShowToolTips=false
