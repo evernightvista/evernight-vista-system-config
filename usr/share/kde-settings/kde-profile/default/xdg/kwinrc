@@ -34,6 +34,7 @@ windowapertureEnabled=false
 scaleEnabled=false
 squashEnabled=true
 blurEnabled=true
+loginEnabled=false
 org.miryugaming.duoEnabled=true
 
 [Round-Corners]
