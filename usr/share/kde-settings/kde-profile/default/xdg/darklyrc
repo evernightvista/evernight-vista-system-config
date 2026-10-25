@@ -8,6 +8,7 @@ DolphinSidebarOpacity=100
 DolphinViewOpacity=100
 MenuBarOpacity=30
 MenuOpacity=100
+NewDolphinSelectionStyle=true
 NoOutline=true
 TabBarOpacity=100
 TabUseBrighterCloseIcon=true

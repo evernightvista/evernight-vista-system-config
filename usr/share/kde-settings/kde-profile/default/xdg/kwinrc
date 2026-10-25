@@ -20,9 +20,6 @@ BlurStrength=1
 NoiseStrength=0
 Saturation=100
 
-[Effect-loginaero]
-FadeToBlack=true
-
 [Plugins]
 aeroglassblurEnabled=true
 aeroglideEnabled=true
@@ -37,6 +34,7 @@ windowapertureEnabled=false
 scaleEnabled=false
 squashEnabled=true
 blurEnabled=true
+org.miryugaming.duoEnabled=true
 
 [Round-Corners]
 ActiveOutlineUseCustom=false
