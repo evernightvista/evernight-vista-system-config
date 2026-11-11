@@ -3,3 +3,6 @@ Bouncing=false
 
 [FeedbackStyle]
 BusyCursor=false
+
+[FeedbackStyle]
+TaskbarButton=false
