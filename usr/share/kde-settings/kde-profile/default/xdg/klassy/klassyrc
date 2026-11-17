@@ -44,8 +44,8 @@ TitleSidePadding=7
 [Windeco]
 BoldButtonIcons=BoldIconsActiveHiDpi
 BoldTitle=false
-ButtonIconStyle=StyleFluent
-ButtonShape=ShapeFullHeightRectangle
+ButtonIconStyle=Fluent
+ButtonShape=IntegratedRoundedRectangleGrouped
 ColorizeWindowOutlineWithButton=false
 DrawBackgroundGradient=false
 MatchTitleBarToApplicationColor=true
@@ -55,6 +55,8 @@ WindowCornerRadius=15
 
 [WindowOutlineStyle]
 LockThinWindowOutlineStyleActiveInactive=true
+WindowOutlineStyleActive=None
+WindowOutlineStyleInactive=None
 ThinWindowOutlineStyleActive=WindowOutlineNone
 ThinWindowOutlineStyleInactive=WindowOutlineNone
 ThinWindowOutlineThickness=1.75
