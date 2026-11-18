@@ -60,6 +60,4 @@ WindowOutlineStyleInactive=None
 ThinWindowOutlineStyleActive=WindowOutlineNone
 ThinWindowOutlineStyleInactive=WindowOutlineNone
 ThinWindowOutlineThickness=1.75
-WindowOutlineStyleActive=WindowOutlineNone
-WindowOutlineStyleInactive=WindowOutlineNone
 WindowOutlineThickness=0.5
