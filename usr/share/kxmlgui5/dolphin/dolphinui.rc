@@ -1,5 +1,5 @@
 <!DOCTYPE gui>
-<gui name="dolphin" translationDomain="kxmlgui6" version="49">
+<gui name="dolphin" translationDomain="kxmlgui6" version="50">
  <MenuBar alreadyVisited="1">
   <Menu alreadyVisited="1" name="file">
    <text translationDomain="kxmlgui6">&amp;File</text>
