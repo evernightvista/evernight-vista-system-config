@@ -2,6 +2,9 @@
 InputMethod[$e]=/usr/share/applications/org.fcitx.Fcitx5.desktop
 VirtualKeyboardEnabled=true
 
+[EdgeBarrier]
+CornerBarrier=false
+
 [Effect-aeroglassblur]
 AeroBrightness=89
 AeroHue=213
@@ -14,6 +17,9 @@ OpaqueOSD=false
 PaintAsTranslucent=true
 ReflectionIntensity=100
 EnableCornerGlow=false
+
+[Effect-overview]
+BorderActivate=9
 
 [Effect-blur]
 BlurStrength=1
@@ -36,6 +42,8 @@ squashEnabled=true
 blurEnabled=true
 loginEnabled=false
 org.miryugaming.duoEnabled=true
+org.miryugaming.snap11Enabled=true
+touchpointsEnabled=true
 
 [Round-Corners]
 ActiveOutlineUseCustom=false
@@ -83,6 +91,10 @@ ButtonsOnRight=HIAX
 library=org.kde.klassy
 theme=Klassy
 CloseOnDoubleClickOnMenu=true
+
+[Windows]
+ElectricBorderMaximize=false
+ElectricBorderTiling=false
 
 [Xwayland]
 XwaylandEavesdrops=All
